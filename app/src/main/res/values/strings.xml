@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practicum_1</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Juan Dela Cruz</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="repairing">Repairing</string>
+    <string name="plumbing">Plumbing</string>
+    <string name="electrical">Electrical</string>
+    <string name="painting">Painting</string>
+    <string name="handyman">Handyman</string>
+    <string name="carpentry">Carpentry</string>
+    <string name="top_handyman">Top Handyman</string>
+    <string name="our_service">Our Service</string>
+    <string name="jonathan_patterson">Jonathan Patterson</string>
+    <string name="handyman_specialist">Handyman Specialist</string>
+    <string name="_4_9_37_reviews">4.9 (37 Reviews)</string>
+</resources>
